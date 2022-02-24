@@ -1,2 +1,12 @@
-## Yaoze Zou
+Address TBA.
+
 yzz {at} tamu {dot} edu
+
+### Brief Bio
+
+After graduating from Shandong University, Weihai, I completed a master degree in applied mathematics at Stony Brook University. I had some work experience in an investment company as a quant. I am now a graduate student in traditional mathematics at Texas A&M University since I am really impressed by the beautiful structure and pattern within math itself.
+
+### Research Interests
+
+My previous experience was about numerical PDEs. Nevertheless, I have broad interests in math especially on the “bridges” between different subjects. Recently, I am interested in algebraic analysis or D-modules.
+
