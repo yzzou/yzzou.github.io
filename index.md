@@ -4,7 +4,7 @@ yzz {at} tamu {dot} edu
 
 ### Brief Bio
 
-After graduating from Shandong University, Weihai, I completed a master degree in applied mathematics at Stony Brook University. I had some work experience in an investment company as a quant. I am now a graduate student in traditional mathematics at Texas A&M University since I am really impressed by the beautiful structure and pattern within math itself.
+I started learning math after graduating from Shandong University, Weihai. I completed a master degree in applied mathematics at Stony Brook University. I had some work experience in an investment company as a quant. I am now a graduate student in traditional mathematics at Texas A&M University.
 
 ### Research Interests
 
@@ -14,5 +14,5 @@ My previous experience was about PDEs. Nevertheless, I have broad interests in m
 
 **Previous:** 
 
-- Grader, [MATH 660 Computational Linear Algebra, (Fall 2021)](https://www.math.tamu.edu/~gpetrova/Syllabus660.html)
+- Grader, [MATH 660 Computational Linear Algebra (Fall 2021)](https://www.math.tamu.edu/~gpetrova/Syllabus660.html)
 
