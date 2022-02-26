@@ -8,7 +8,7 @@ I started learning math after graduating from Shandong University, Weihai. I com
 
 ### Research Interests
 
-My previous experience was about PDEs. Nevertheless, I have broad interests in math especially on the “bridges” between different subjects. Recently, I am interested in algebraic analysis or D-modules.
+My previous experience was about PDEs. Nevertheless, I have broad interests in math especially in the “bridges” between different fields. Recently, I am interested in algebraic analysis or D-modules.
 
 ### Teaching 
 
