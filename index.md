@@ -10,9 +10,3 @@ I started learning math after graduating from Shandong University, Weihai. I com
 
 My previous experience was about PDEs. Nevertheless, I have broad interests in math especially in the “bridges” between different fields. Recently, I am interested in algebraic analysis or D-modules.
 
-### Teaching 
-
-**Previous:** 
-
-- Grader, [MATH 660 Computational Linear Algebra (Fall 2021)](https://www.math.tamu.edu/~gpetrova/Syllabus660.html)
-
