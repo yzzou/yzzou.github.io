@@ -10,6 +10,6 @@ I started learning math after graduating from Shandong University, Weihai. I com
 
 D-modules, Algebraic Analysis, Differential Algebra
 
-### Aside
+### In Memoriam
 
 Mikio Sato, one of the pioneering mathematicians in algebraic analysis passed away in January 2023. [Here](https://www.ams.org/notices/200702/comm-schapira.pdf) is a brief article about him and his work.
