@@ -8,4 +8,4 @@ I began studying mathematics after completing my undergraduate degree. I complet
 
 ### Research Interests
 
-D-modules and their applications
+D-modules and their applications to algebraic geometry, representation theory, and PDEs
