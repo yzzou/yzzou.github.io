@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Notes
 ---
 
 - Notes on D-modules
