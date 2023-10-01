@@ -1,0 +1,16 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: contact
+    entries:
+      - title: address TBA
+      - title: yzz [AT] tamu [DOT] edu
+
+  - title: research interests
+    entries:
+      - title: D-modules
+
+  - title: notes
+    entries:
+      - title: Notes on D-modules
