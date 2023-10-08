@@ -2,11 +2,6 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Contact
-    entries:
-      - title: address TBA
-      - title: yzz [AT] tamu [DOT] edu
-
   - title: Research interests
     entries:
       - title: D-modules
