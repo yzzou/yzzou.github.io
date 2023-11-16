@@ -1,21 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}">
-  {%- include head.html -%}
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        {{ content }}
-      </div>
-    </main>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
+</head>
+<body>
 
-    {%-if site.goat_counter and jekyll.environment == "production"-%}
-      {%-include goat_counter.html-%}
-    {%-endif-%}
 
-    {% if page.custom_js %}
-      {% for js_file in page.custom_js %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-      {% endfor %}
-    {% endif %}
-  </body>
+<div id="header">
+  <span class='big'>{{ site.title }}</span>
+  <span class='small'>{{ site.subtitle }}</span>
+</div>
+
+<div id="nav">
+  <a href="{{ 'index.html' | relative_url }}">Welcome</a> •
+  <a href="{{ 'two.html'   | relative_url }}">Page Two</a> •
+  <a href="{{ 'three.html' | relative_url }}">Page Three</a> •
+  <a href="http://groups.google.com/group/wwwmake">Questions? Comments?</a> •
+  <a href="https://github.com/henrythemes/jekyll-starter-theme">About</a>
+</div>
+
+<div id="content">
+  {{ content }}
+</div>
+
+</body>
 </html>
+
