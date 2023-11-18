@@ -5,4 +5,4 @@ title: Notes
 
 # {{ page.title }}
 
-- [Notes on D-modules](https://yzzou.github.io/notes/notes_dmodules.pdf) (Updated on 9/23)
+- [Notes on D-modules](https://yzzou.github.io/notes/notes_dmodules.pdf) (updated 9/23)
