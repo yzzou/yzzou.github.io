@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-PhD student in math at Texas A&M
+Ph.D. student in Mathematics<br>
+Texas A&M University
 
 Office: Blocker 605
 
