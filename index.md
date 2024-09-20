@@ -8,4 +8,4 @@ Texas A&M University
 
 Office: Blocker 605
 
-Email: yzz [AT] tamu.edu
+Email: yzz [a] tamu [d] edu
